@@ -1,4 +1,5 @@
 boto3
+botocore
 moto
 moto[server]
 aws_lambda_powertools
