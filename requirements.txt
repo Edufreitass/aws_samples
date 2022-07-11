@@ -1,0 +1,4 @@
+boto3
+moto
+moto[server]
+aws_lambda_powertools
